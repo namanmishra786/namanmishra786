@@ -26,9 +26,9 @@
 
 ## 📈 My GitHub Stats
 
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namamishra786&show_icons=true&theme=radical)
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanmishra786&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namamishra786&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanmishra786&layout=compact&theme=radical)
 
 ---
 
@@ -36,15 +36,15 @@
 
 ### 🎵 Muzi – Collaborative Music Playlist Voting App
 _A fun way to vote on your favorite songs with friends._  
-[🔗 View on GitHub](https://github.com/namamishra786)
+[🔗 View on GitHub](https://github.com/namanmishra786)
 
 ### 🎬 MovieMate – Personal Movie Watchlist & Reviews
 _Track, review, and share your watchlist._  
-[🔗 View on GitHub](https://github.com/namamishra786)
+[🔗 View on GitHub](https://github.com/namanmishra786)
 
 ### 🔒 LightVault – Secure .env CLI Tool (WIP)
 _An open-source tool for local secret management._  
-[🔗 View on GitHub](https://github.com/namamishra786)
+[🔗 View on GitHub](https://github.com/namanmishra786)
 
 ---
 
@@ -55,7 +55,7 @@ _An open-source tool for local secret management._
 ---
 
 **Let's connect!** 🌐  
-[LinkedIn](https://www.linkedin.com/in/naman-mishra-5386a9227/) • [X (Twitter)](https://x.com/namanmishr786) • [GitHub](https://github.com/namamishra786)
+[LinkedIn](https://www.linkedin.com/in/naman-mishra-5386a9227/) • [X (Twitter)](https://x.com/namanmishr786) • [GitHub](https://github.com/namanmishra786)
 
 
 
